@@ -65,12 +65,12 @@ h3 {
   p.groove {border-style: groove;}
   font-family: verdana;
   font-size: 300%;
-  background-color: purple;
+  background-color:green;
 }
 
 
 a:link {
-  color: green;
+  color: pink;
   background-color: transparent;
   text-decoration: none;
 }
