@@ -31,8 +31,7 @@ p {
 img {
 width:400;
 height:400;
-  background:url('img/backgr.jpg')
-        center center no-repeat;
+center: center no-repeat;
 }
 
 
