@@ -31,6 +31,10 @@ p {
 img {
 width:400;
 height:379;
+    padding-top: 12px;
+  padding-bottom: 12px;
+  padding-left: 13px;
+  padding-right: 13px;
 }
 
 
