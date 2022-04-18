@@ -31,7 +31,6 @@ p {
 img {
 width:400;
 height:400;
-center: center no-repeat;
 }
 
 
@@ -88,4 +87,3 @@ a:active {
   background-color: transparent;
   text-decoration: underline;
 }
-
