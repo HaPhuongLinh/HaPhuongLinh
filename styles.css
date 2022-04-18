@@ -10,9 +10,6 @@ background-image: url('img/backgr.jpg');
 background-repeat: no-repeat;
 background-attachment: fixed;
 background-size: cover;
-padding: 30px;
-margin: 30px;
-background-color: pink (87, 121, 221, 0.514);
 }
 h1 {
   color:pink (216, 102, 121, 0.753);
