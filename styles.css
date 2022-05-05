@@ -1,35 +1,41 @@
-h1 {
-    text-align: center;
-    font-family: "Source Sans Pro", sans-serif;
-    font-weight: normal;
-}
 body{
-    background-image:url('img/anhnen.jpg');
-    background-repeat: no-repeat;
-    background-attachment: fixed;
-    background-size: cover;
+background-image: url('b.jpg');
+background-repeat: no-repeat;
+background-attachment: fixed;
+background-size: cover;
+padding: 30px;
+margin: 30px;
+<!--background-color: powderblue;-->
 }
 h1 {
-  color:pink (216, 102, 121, 0.753);
+  color: mediumseagreen;
   font-family: verdana;
   font-size: 300%;
-  background-color: black;
+  background-color: white;
 }
 h2 {
-  color: blueviolet;
+  color: red;
   p.groove {border-style: groove;}
   font-family: verdana;
   font-size: 300%;
-  background-color: pink;
+  background-color: lightgrey;
 }
 p {
   color: blue;
   font-family: courier;
   font-size: 160%;
-  background-color:(44, 148, 89, 0.747)
+  background-color: pink;
 }
+img {
+width:400;
+height:379;
+}
+
+
+
+
 table{
-border: 2px double black;
+border: 5px double black;
 border-collapse: collapse;
 font-size: 30px;
 }
@@ -47,19 +53,19 @@ th, td {
   padding-right: 13px;
 }
 /*tr:nth-child(odd){
- background-color: Highlight; 
+ background-color: Highlight;
 }*/
 h3 {
   color:mediumseagreen ;
   p.groove {border-style: groove;}
   font-family: verdana;
   font-size: 300%;
-  background-color:green;
+  background-color: purple;
 }
 
 
 a:link {
-  color: pink;
+  color: green;
   background-color: transparent;
   text-decoration: none;
 }
@@ -81,3 +87,4 @@ a:active {
   background-color: transparent;
   text-decoration: underline;
 }
+</style>
