@@ -1,11 +1,10 @@
 body{
-background-image: url('img/bg.jpg');
-background-repeat: no-repeat;
-background-attachment: fixed;
-background-size: cover;
-padding: 30px;
-margin: 30px;
-<!--background-color: powderblue;-->
+    background-image: url('img/bg.jpg');
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+    padding: 30px;
+    margin: 30px;
 }
 h1 {
   color: mediumseagreen;
