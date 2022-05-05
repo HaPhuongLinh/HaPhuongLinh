@@ -4,7 +4,7 @@ h1 {
     font-weight: normal;
 }
 body{
-    background-image: url('.jpg');
+    background-image: url('img/backgr.jpg');
     background-repeat: no-repeat;
     background-attachment: fixed;
     background-size: cover;
