@@ -4,10 +4,10 @@ h1 {
     font-weight: normal;
 }
 body{
-background-image: url('https://github.com/HaPhuongLinh/HaPhuongLinh/blob/gh-pages/img/backgr.jpg');
-background-repeat: no-repeat;
-background-attachment: fixed;
-background-size: cover;
+    background-image: url('.jpg');
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
 }
 h1 {
   color:pink (216, 102, 121, 0.753);
