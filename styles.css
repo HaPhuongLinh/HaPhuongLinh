@@ -88,7 +88,7 @@ a:hover {
 
 a:active {
   color: yellow;
-  background-color: transparent;
+  background-color: transparent; 
   text-decoration: underline;
 }
 </style>
